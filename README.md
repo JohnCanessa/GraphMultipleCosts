@@ -1,7 +1,7 @@
-# MinimumPenaltyPath
-HackerRank problem using Java 8
+# GraphMultipleCosts
+Explore Dijkstra's shortest path algorithm with graphs holding multiple edges to the same vertex.
 
-An approach to solve this challenge may be found in the following link:
+Additional information for the code may be found in the following link:
 
 https://www.johncanessa.com/2020/04/02/graph-multiple-costs/
 
